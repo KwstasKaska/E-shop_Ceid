@@ -1,4 +1,4 @@
-# E-shop-Project
+# E-shop Project
 
 This is an e-shop i build in terms of a uni project.
 
